@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://lailab.github.com
-title: Ninjas at Lailab 
+title: Ninja at Lailab 
 subtitle: Blogs of The Mobile Computing Lab
-author: Your Name
+author: cclua
 simple_search: http://google.com/search
 description:
 
@@ -20,7 +20,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: cclua@lailab.net
 
 # ----------------------- #
 #    Jekyll & Plugins     #
