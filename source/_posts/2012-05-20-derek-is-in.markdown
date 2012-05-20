@@ -12,13 +12,13 @@ categories:
 <br>
 
 
-由於**「組織」**的安排，我必須** 即 刻 **重拾*撰碼*的專業，**以身作則**，帶領一群高手投入 *HTML5 + CSS3 + Javascript* 的開發環境，在短期內以最酷炫的互動界面技術搞定一個創新工具平台的開發。
+由於**「組織」**的安排，我必須** 即 刻 **重拾* 撰 碼 *的專業，**以身作則**，帶領一群高手投入 *HTML5 + CSS3 + Javascript* 的開發環境，在短期內以最酷炫的互動界面技術搞定一個創新工具平台的開發。
 
-最困難的事是全體高手必須以「砍掉重練」的心情，拋棄原先滿身的~~其它無用~~功夫，轉換腦袋，在一個月內以最高效率從零開始進行精練忍術，務求迅速練成真正~~能出國比賽~~的 **Javascript Ninja**。
+最困難的事是全體高手必須以「砍掉重練」的心情，拋棄原先滿身~~其它無用~~的功夫，轉換腦袋，在一個月內以最高效率從零開始進行精練忍術，務求迅速練成真正~~能出國比賽~~的 **Javascript Ninja**。
 
-我已經多年沒親自下山搞 Coding，很多江湖規矩恐怕都已大不相同。憑藉~~老宅男 ~~Senior Hacker 的莫名自信，昨天**硬著頭皮**混進 [JSDC2012.TW](http://jsdc.tw/2012/Sessions)，不管聽懂多少，當場靠著 Google 大神的協練，瞬間強灌了好幾年功力的基本功。
+我已經多年沒親自下山搞 Coding，很多江湖規矩恐怕都已大不相同。憑藉一個~~中年老宅男 ~~Senior Hacker 的莫名自信，昨天**硬著頭皮**混進 [JSDC2012.TW](http://jsdc.tw/2012/Sessions)，不管聽懂多少，當場靠著 Google 大神不斷的協練，瞬間強灌了好幾年功力。
 
-回來稍作整理，發現 jQuery、Node.js、YUI、CSS 3/3D、CoffeeScript、Require.js、Backbone.js、Common.js、AMD、Ajax、JSON、YAML、jsdoc、ObfuscateJS、Canvas、WebGL、Gestures、MVC/MVP 架構...以及一大堆 js frameworks、幾十個 game engines，都要充分認識，且把選定的各種技術架構玩到**反射級**的熟悉，否則難以成事，...這，恐怕需要一整個月不眠不休的勤練吧！
+回來稍作整理，發現 jQuery、Node.js、YUI、CSS 3/3D、CoffeeScript、Require.js、Backbone.js、Common.js、AMD、Ajax、JSON、YAML、jsdoc、ObfuscateJS、Canvas、WebGL、Gestures、MVC/MVP 架構...以及一大堆 js frameworks、幾十個 js game engines，都要充分認識，並且把選定的各種技術、概念、架構都玩到**反射級**的熟悉程度，否則肯定難以成事，不過，這...恐怕需要一整個月不眠不休的勤練吧！
 
 工具與環境部分，還要熟悉不同 Browser 的差異，至少 Chrome、Safari、Firefox、IE、Opera 五大門派都要精通，Webkit、Gecko、V8、Tamarin、SpiderMonkey、SquirrelFish...都要認識，還有 Javascript 控制台、Debugger、Profiler、Python、Ruby... 要有基本常識，還要認識 Javascript 江湖的大師們* Douglas Crockford、Nicholas Zakas、John Resig、Brendan Eich、Peter-Paul Koch、...*以及他們的偉大作品...
 
